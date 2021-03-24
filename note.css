@@ -1,0 +1,79 @@
+.rectangle{
+height:245.67px;
+width:536.692px;
+display:flex;
+flex-direction:row;
+position:absolute;
+margin-left:32%;
+background-color:blue;
+}
+.rectangle .rect{
+	display:flex;
+width:100%;
+margin-top:4%;
+}
+h1{
+  font-size:0.8rem;
+  margin-left:27px;
+   margin-top:5px;
+   white-space:nowrap;
+}
+h2{
+  font-size:0.8rem;
+  margin-left:83px;
+   margin-top:5px;
+   white-space:nowrap;
+}
+h4{
+  font-size:0.8rem;
+  margin-left:370px;
+   margin-top:5px;
+   white-space:nowrap;
+}
+h3{
+  font-size:0.8rem;
+  margin-left:90px;
+   margin-top:5px;
+   white-space:nowrap;
+}
+h5{
+font-size:0.5rem;
+margin-left:-16%;
+margin-top:4%;	
+white-space:nowrap;
+}
+h6{
+font-size:0.5rem;
+margin-left:-33%;
+margin-top:4%;
+white-space:nowrap;	
+}
+.square{
+height:245.67px;
+width:536.692px;
+display:flex;
+flex-direction:row;
+position:absolute;
+margin:auto;
+background-color:green;
+margin-left:32%;
+margin-top:20%;
+}
+.Ate{
+  margin-top:97px;
+  margin-left:-56px;
+  width:50px;
+  height:50px;
+}
+.ball{
+	 margin-top:97px;
+  margin-left:-56px;
+  width:50px;
+  height:50px;
+}
+.gun{
+	 margin-top:97px;
+  margin-left:-56px;
+  width:50px;
+  height:50px;
+}
